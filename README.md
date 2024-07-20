@@ -2,6 +2,8 @@
 
 This repository contains a Python script to search and extract PubMed records based on specific authors and topics. The extracted data is stored in a Pandas DataFrame and saved to an Excel file.
 
+YouTube video overview of code: https://youtu.be/sGC66q45BX4
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
