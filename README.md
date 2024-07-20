@@ -60,4 +60,4 @@ The script will create an Excel file named `PubMed_results.xlsx` containing the 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
