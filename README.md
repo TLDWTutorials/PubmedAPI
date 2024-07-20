@@ -13,7 +13,7 @@ This repository contains a Python script to search and extract PubMed records ba
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/PubMed-Data-Extraction.git
+    git clone https://github.com/TLDWTutorials/PubMed-Data-Extraction.git
     cd PubMed-Data-Extraction
     ```
 
